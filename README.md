@@ -5,8 +5,8 @@
 ![Muhammadbilal24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadbilal24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 <p align="center"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
-<a href="http://eddiejaoude.io" target="_blank"><img src="![Uploading image.png…]()
-" /></a>
+<a href="http://eddiejaoude.io" target="_blank"><img src="![image](https://github.com/MuhammadBilal24/MuhammadBilal24/assets/123636536/384ebd60-9ae2-455c-ad25-d456e6ebec04)
+"/></a>
 
 <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
