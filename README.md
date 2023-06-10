@@ -8,7 +8,7 @@
 
 <br />
 
-I'm a 
+I am a highly motivated and energetic developer with a strong passion for PHP Backend and WordPress development. With a laser focus on creating elegant, efficient, and modern web applications, I am committed to consistently delivering high-quality solutions that exceed client expectations.
 
 **About me**
 
@@ -40,12 +40,3 @@ I'm a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amuhammadbilal12&repo=muhammadbilal12.github.io&theme=buefy" />
 </a>
 
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/muhammadbilal12/muhammadbilal12/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/muhammadbilal12/muhammadbilal12/master/assets/codesandbox.svg" />
-</a>
