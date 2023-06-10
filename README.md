@@ -4,7 +4,7 @@
 ![Muhammadbilal24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadbilal24&theme=vue-dark&hide_border=true)
 ![Muhammadbilal24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadbilal24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
-<p align="center"><a href="https://muhammadbilal24.github.io"><img width="80%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://muhammadbilal24.github.io"><img width="80%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
 
 <br />
 
