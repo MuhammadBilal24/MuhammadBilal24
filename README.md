@@ -7,12 +7,13 @@
 <p align="center"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
 
 <br />
-
+Php Laravel Developer | WordPress Developer 
 I am a highly motivated and energetic developer with a strong passion for PHP Laravel and WordPress development. With a laser focus on creating elegant, efficient, and modern web applications, I am committed to consistently delivering high-quality solutions that exceed client expectations.
 
 **About me**
 
 - Backend Laravel Engineer at [Nenosofts IT Solutions](https://nenosofts.pk/)
+- Computer Science Graduate
 
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
 
