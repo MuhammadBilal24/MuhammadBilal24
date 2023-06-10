@@ -5,9 +5,9 @@
 ![Muhammadbilal24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadbilal24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 <p align="center"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
-<a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
+<!-- <a href="http://eddiejaoude.io" target="_blank"><img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" /></a>
 
-<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
+<p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p> -->
 
 <br />
 Php Laravel Developer | WordPress Developer <br>
@@ -24,6 +24,12 @@ I am a highly motivated and energetic developer with a strong passion for PHP La
 
 <!-- - ❤️ I love writing TypeScript, and building fun experiments on type-level -->
 
+<table>
+  <tr>
+    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td>
+    <td><a href="https://stars.github.com/profiles/eddiejaoude/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
+  </tr>
+</table>
 
 <!-- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
