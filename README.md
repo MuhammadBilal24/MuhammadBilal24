@@ -4,11 +4,11 @@
 ![Muhammadbilal24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadbilal24&theme=vue-dark&hide_border=true)
 ![Muhammadbilal24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadbilal24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
-<p align="center"><a href="https://muhammadbilal24.github.io"><img width="80%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
+<p align="center"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
 
 <br />
 
-I am a highly motivated and energetic developer with a strong passion for PHP Backend and WordPress development. With a laser focus on creating elegant, efficient, and modern web applications, I am committed to consistently delivering high-quality solutions that exceed client expectations.
+I am a highly motivated and energetic developer with a strong passion for PHP Laravel and WordPress development. With a laser focus on creating elegant, efficient, and modern web applications, I am committed to consistently delivering high-quality solutions that exceed client expectations.
 
 **About me**
 
