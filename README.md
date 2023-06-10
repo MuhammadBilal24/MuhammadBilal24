@@ -6,7 +6,7 @@
 <!-- 
 <p align="center"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p> -->
 <a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/1685807780574.jpg"/></a>
-<p align="center"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
+
 <p></p>
 <!-- <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p> -->
 
@@ -38,4 +38,5 @@ I am a highly motivated and energetic developer with a strong passion for PHP La
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
+<p align="right"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
 
