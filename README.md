@@ -26,12 +26,12 @@ I am a highly motivated and energetic developer with a strong passion for PHP La
 
 <!-- - ❤️ I love writing TypeScript, and building fun experiments on type-level -->
 
-<!-- <table>
+<table>
   <tr>
     <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://user-images.githubusercontent.com/624760/197230432-de4db9f3-8c8d-4421-8ed4-fc83c02f73e6.jpeg" /></a></td>
     <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://user-images.githubusercontent.com/624760/197230439-f90cd6b0-2174-41be-97eb-5f28f49d9d19.jpg" /></a></td>
   </tr>
-</table> -->
+</table>
 
 <!-- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
