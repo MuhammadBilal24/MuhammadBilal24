@@ -29,7 +29,7 @@ I am a highly motivated and energetic developer with a strong passion for PHP La
 <table>
   <tr>
     <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/1.png" /></a></td>
-    <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/Screenshot%202023-06-11%20180239.png" /></a></td>
+    <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/2.png" /></a></td>
   </tr>
 </table>
 
