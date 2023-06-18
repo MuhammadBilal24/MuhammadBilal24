@@ -31,6 +31,11 @@ I am a highly motivated and energetic developer with a strong passion for PHP La
     <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/1.png" /></a></td>
     <td><a href="https://stars.github.com/profiles/muhammadbilal12/"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/2.png" /></a></td>
   </tr>
+  <tr>
+    <a href="https://app.daily.dev/muhammadbilal12"><img src="https://api.daily.dev/devcards/fc8a5e79ccaf47bd9fbbd4c4c3406c1e.png?r=zv5" width="400" alt="Muhammad Bilal's Dev Card"/></a>
+
+  </tr>
+
 </table>
 
 <!-- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -41,4 +46,3 @@ I am a highly motivated and energetic developer with a strong passion for PHP La
 
 <p align="right"><a href="https://muhammadbilal24.github.io"><img width="20%" alt="Hello, I'm Muhammad Bilal. I do open source!" src="https://nenosofts.pk/bilaeldevelops/assets/imgs/logo22.png" /></a></p>
 
-<a href="https://app.daily.dev/muhammadbilal12"><img src="https://api.daily.dev/devcards/fc8a5e79ccaf47bd9fbbd4c4c3406c1e.png?r=zv5" width="400" alt="Muhammad Bilal's Dev Card"/></a>
