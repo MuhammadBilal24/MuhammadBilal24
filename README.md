@@ -8,8 +8,9 @@
 <!-- <a href="http://eddiejaoude.io" target="_blank"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/1685807780574.jpg"/></a> -->
 <!--<a href="https://nenosofts.pk/bilaldevelops" target="_blank"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/cover.png"/></a>-->
 <a href="https://nenosofts.pk/bilaldevelops" target="_blank"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/github1.png"/></a>
-<!--<a href="https://nenosofts.pk/bilaldevelops" target="_blank"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/github.png"/></a>-->
-### :hammer_and_wrench: Languages and Tools :
+<!--<a href="https://nenosofts.pk/bilaldevelops" target="_blank"><img src="https://github.com/MuhammadBilal24/MuhammadBilal24/blob/main/github.png"/></a>
+### :hammer_and_wrench: Languages and Tools : -->
+
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
