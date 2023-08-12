@@ -39,7 +39,10 @@
 
 <br />
 Php Laravel & CodeIgniter Developer | WordPress Developer <br>
-I am a highly motivated and energetic developer with a strong passion for PHP Laravel and WordPress development. With a laser focus on creating elegant, efficient, and modern web applications, I am committed to consistently delivering high-quality solutions that exceed client expectations.
+I entered the field of software development after earning a degree in computer science. 
+Before switching to Laravel, I first spent a year using PHP CodeIgniter. 
+I'm currently working remotely and am continuously trying to improve my logical thinking and information base. 
+The journey goes on.
 
 
 <!-- **About me** -->
