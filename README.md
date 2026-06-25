@@ -43,7 +43,7 @@ Yes, I hold an MPhil in Artificial Intelligence and a Bachelor’s in Computer S
 
 <!-- **About me** -->
 
-- MS Artificial Intelligence | BS Computer SciencE
+- MS Artificial Intelligence | BS Computer Science
 - Ask me about anything [here](https://bilaldevelops.wsoftsolution.com/)
 
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
