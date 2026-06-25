@@ -12,7 +12,7 @@
 ### :hammer_and_wrench: Languages and Tools : -->
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp; -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -38,18 +38,13 @@
 <!-- <p align="center">I believe Open Source is for EVERYONE; yes, YOU TOO! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p> -->
 
 <br />
-Php Laravel & CodeIgniter Developer | WordPress Developer <br>
-I entered the field of software development after earning a degree in computer science. 
-Before switching to Laravel, I first spent a year using PHP CodeIgniter. 
-I'm currently working remotely and am continuously trying to improve my logical thinking and information base. 
-The journey goes on.
+Yes, I hold an MPhil in Artificial Intelligence and a Bachelor’s in Computer Science, with strong teaching expertise in core CS | AI subjects along with hands-on experience in Full-Stack Development using Laravel, React, Python, AI & Machine Learning. Currently, I’m working remotely with US clients, building scalable eCommerce applications, system integrations, and web solutions, while continuously learning and evolving in the tech space. The journey continues.
 
 
 <!-- **About me** -->
 
-- Backend Laravel Engineer at [Nenosofts IT Solutions](https://nenosofts.pk/)
-- Computer Science Graduate
-- Ask me about anything [here](https://nenosofts.pk/bilaeldevelops)
+- MS Artificial Intelligence | BS Computer SciencE
+- Ask me about anything [here](https://bilaldevelops.wsoftsolution.com/)
 
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub -->
 
